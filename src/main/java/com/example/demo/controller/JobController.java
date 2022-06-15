@@ -27,7 +27,6 @@ public class JobController {
     private JobLauncher jobLauncher;
     @Autowired
     private Job job;
-
     @Autowired
     private CustomerRepository customerRepository;
     @Autowired
